@@ -1,0 +1,59 @@
+1. git init
+   - Initialize a new Git repository in the current directory.
+
+2. git clone <repository-url>
+   - Create a copy of a remote repository on your local machine.
+
+3. git add <file(s)>
+   - Add file(s) to the staging area in preparation for a commit.
+
+4. git commit -m "commit message"
+   - Record changes in the repository with a descriptive commit message.
+
+5. git status
+   - Show the status of changes as untracked, modified, or staged.
+
+6. git log
+   - Display a log of all commits, showing commit messages and details.
+
+7. git branch
+   - List all local branches and highlight the current branch.
+
+8. git checkout <branch-name>
+   - Switch to the specified branch.
+
+9. git merge <branch-name>
+   - Merge changes from a specified branch into the current branch.
+
+10. git pull
+    - Fetch changes from a remote repository and merge them into the current branch.
+
+11. git push
+    - Upload local changes to a remote repository.
+
+12. git remote -v
+    - Display the URLs of remote repositories linked to the local repository.
+
+13. git fetch
+    - Download changes from a remote repository without merging.
+
+14. git diff
+    - Show the differences between the working directory and the staging area.
+
+15. git reset <file>
+    - Unstage a file while keeping its changes in the working directory.
+
+16. git rm <file>
+    - Remove a file from both the working directory and the version control system.
+
+17. git tag <tag-name>
+    - Create a lightweight, unchangeable reference to a specific commit.
+
+18. git remote add <remote-name> <remote-url>
+    - Add a new remote repository with a specified name and URL.
+
+19. git config --global user.name "Your Name"
+    - Set your global Git username.
+
+20. git config --global user.email "your@email.com"
+    - Set your global Git email address.
